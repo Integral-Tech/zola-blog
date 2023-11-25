@@ -21,7 +21,7 @@ highlight_code = true
 [extra]
 logo_text = "Integral's Blog"
 
-author = "Integral"
+copyright_html = "© 2023 Integral, source code hosted on&nbsp<a href=\"https://github.com/Integral-Tech/zola-blog\" target=\"_blank\">Github</a>"
 
 menu_items = [
     {name = "Blog", url = "$BASE_URL"},
