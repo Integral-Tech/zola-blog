@@ -15,4 +15,18 @@ build_search_index = true
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+logo_text = "Integral's Blog"
+
+author = "Integral"
+
+menu_items = [
+    {name = "Blog", url = "$BASE_URL"},
+    {name = "Tags", url = "$BASE_URL/tags"},
+    {name = "Archive", url = "$BASE_URL/archive"},
+    {name = "About Me", url = "$BASE_URL/about"},
+    {name = "GNU Project", url = "https://gnu.org", newtab = true},
+]
+
+taxonomies = [
+    {name = "tags"},
+]
