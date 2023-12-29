@@ -21,7 +21,7 @@ A free software enthusiast, [Arch Linux](https://archlinux.org) user & [archlinu
 
 - [![Matrix (ocf.berkeley.edu)](https://img.shields.io/badge/-Matrix%20(ocf.berkeley.edu)-grey?logo=matrix&logoColor=white&style=for-the-badge)](https://matrix.to/#/@integral:ocf.berkeley.edu)
 
-- [![E-mail](https://img.shields.io/badge/-Email-005FF9?logo=maildotru&logoColor=white&style=for-the-badge)](mailto:integral@murena.io)
+- [![E-mail](https://img.shields.io/badge/-Email-005FF9?logo=maildotru&logoColor=white&style=for-the-badge)](mailto:integral@member.fsf.org)
 
 - PGP Fingerprint
 ```
