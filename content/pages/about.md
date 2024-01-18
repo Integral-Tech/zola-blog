@@ -3,7 +3,7 @@ title = "About Me"
 path = "about"
 +++
 
-An undergraduate student at Dalian University of Technology, preparing for Berkeley Global Access program in Spring 2024.
+An international student at UC Berkeley, also an undergraduate student at Dalian University of Technology.
 
 A free software enthusiast, [Arch Linux](https://archlinux.org) user & [archlinuxcn](https://github.com/archlinuxcn) maintainer.
 
