@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2024 Integral <integral@member.fsf.org>
+
+SPDX-License-Identifier: GFDL-1.3-or-later
+-->
+
 # Integral's Blog
 My blog hosted on Berkeley OCF, built by zola.
 

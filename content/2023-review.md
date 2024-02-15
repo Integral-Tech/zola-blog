@@ -6,6 +6,12 @@ date = "2023-12-31"
 tags = ["Year Review"]
 +++
 
+<!--
+SPDX-FileCopyrightText: 2024 Integral <integral@member.fsf.org>
+
+SPDX-License-Identifier: GFDL-1.3-or-later
+-->
+
 It's almost 2024, so everyone should harvest something in 2023 :)
 
 - In 2023, I have gone from being a pragmatic open-source software lover to a free software enthusiast. The ROM on my [Android](https://www.android.com) phone was switched from [MIUI](https://home.miui.com) which is the  stock firmware on my phone, to the AOSP-based [crDroid](https://crdroid.net). I was struggling to use as little proprietary software as possible both on my phone and PC, minimizing my dependence on proprietary network services.

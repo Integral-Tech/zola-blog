@@ -3,3 +3,9 @@ title = "Archive"
 path = "archive"
 template = "archive.html"
 +++
+
+<!--
+SPDX-FileCopyrightText: 2024 Integral <integral@member.fsf.org>
+
+SPDX-License-Identifier: GFDL-1.3-or-later
+-->

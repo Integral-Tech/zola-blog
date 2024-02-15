@@ -3,6 +3,12 @@ title = "About Me"
 path = "about"
 +++
 
+<!--
+SPDX-FileCopyrightText: 2024 Integral <integral@member.fsf.org>
+
+SPDX-License-Identifier: GFDL-1.3-or-later
+-->
+
 An international student at UC Berkeley, also an undergraduate student at Dalian University of Technology.
 
 A free software enthusiast, [Arch Linux](https://archlinux.org) user & [archlinuxcn](https://github.com/archlinuxcn) maintainer.
