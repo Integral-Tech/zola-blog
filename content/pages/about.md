@@ -17,9 +17,11 @@ A free software enthusiast, [Arch Linux](https://archlinux.org) user & [archlinu
 
 ##### How to reach me
 
-- [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?logo=mastodon&logoColor=white&style=for-the-badge)](https://fosstodon.org/@Integral)
-
 - [![Github](https://img.shields.io/badge/-Github-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Integral-Tech)
+
+- [![Codeberg](https://img.shields.io/badge/-Codeberg-2185D0?logo=codeberg&logoColor=white&style=for-the-badge)](https://codeberg.org/Integral/)
+
+- [![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?logo=mastodon&logoColor=white&style=for-the-badge)](https://fosstodon.org/@Integral)
 
 - [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/Integral_Tech)
 
