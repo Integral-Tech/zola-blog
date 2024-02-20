@@ -13,4 +13,4 @@ My blog hosted on Berkeley OCF, built by zola.
 - [Terminimal](https://www.getzola.org/themes/zola-theme-terminimal), a simple, minimal retro theme for Zola
 
 ## License
-- Licensed under the [GNU Free Documentation License, version 1.3 or any later version](https://codeberg.org/Integral/zola-blog/src/branch/main/LICENSES/GFDL-1.3-or-later.txt).
+- Licensed under the [GNU Free Documentation License, version 1.3 or any later version](LICENSES/GFDL-1.3-or-later.txt).
